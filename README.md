@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0F2747,75:153A5B,100:0D9488&height=240&section=header&text=NOBAMB&fontSize=68&fontColor=FFFFFF&animation=fadeIn&desc=Creative%20Developer%20in%20the%20Universe&descSize=18&descAlignY=70" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=1000&color=36D6CF&center=true&vCenter=true&width=760&lines=Building+worlds%2C+tools%2C+and+strange+ideas+from+a+single+laptop.;Game+Development+%7C+AI+Automation+%7C+Creative+Coding.;Always+experimenting.+Always+creating." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36D6CF&center=true&vCenter=true&width=750&height=50&lines=Building+worlds+and+strange+ideas;One+laptop.+Infinite+possibilities.;Game+Development+%7C+AI+Automation;Turning+imagination+into+reality;Always+experimenting.+Always+creating." />
 
 </div>
 
@@ -92,7 +92,7 @@ I like exploring concepts that sit between software, art, and systems design.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nobamb&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nobamb&theme=tokyonight" />
 
 </div>
 
